@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayseck
-- 👀 I’m interested in WEB development and Data base.
-- 🌱 I’m currently learning Python and Django.
+- 👀 I’m interested in Cyber Security.
+- 🌱 I’m currently learning Java.
 - 📫 You can reach me on linkedin.
 
 <!---
